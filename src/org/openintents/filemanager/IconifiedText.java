@@ -1,4 +1,4 @@
-package org.openintents.cmfilemanager;
+package org.openintents.filemanager;
 
 /* 
  * Copyright 2007 Steven Osborn 

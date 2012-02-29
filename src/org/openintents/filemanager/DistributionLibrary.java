@@ -1,4 +1,6 @@
-package org.openintents.cmfilemanager;
+package org.openintents.filemanager;
+
+import org.openintents.filemanager.R;
 
 import android.app.Activity;
 import android.app.Dialog;

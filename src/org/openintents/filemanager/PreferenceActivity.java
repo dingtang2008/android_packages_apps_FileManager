@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.openintents.cmfilemanager;
+package org.openintents.filemanager;
 
 import android.content.Context;
 import android.os.Bundle;

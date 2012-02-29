@@ -14,13 +14,14 @@
  * limitations under the License.
  */
 
-package org.openintents.cmfilemanager;
+package org.openintents.filemanager;
 
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+import org.openintents.filemanager.R;
 import org.openintents.util.VersionUtils;
 
 import android.app.Activity;

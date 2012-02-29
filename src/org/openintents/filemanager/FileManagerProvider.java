@@ -1,4 +1,4 @@
-package org.openintents.cmfilemanager;
+package org.openintents.filemanager;
 
 import android.content.ContentProvider;
 import android.content.ContentValues;
@@ -9,8 +9,10 @@ import android.net.Uri;
 import android.os.ParcelFileDescriptor;
 import android.provider.MediaStore.Images;
 import android.util.Log;
-import org.openintents.cmfilemanager.util.MimeTypeParser;
-import org.openintents.cmfilemanager.util.MimeTypes;
+
+import org.openintents.filemanager.R;
+import org.openintents.filemanager.util.MimeTypeParser;
+import org.openintents.filemanager.util.MimeTypes;
 import org.xmlpull.v1.XmlPullParserException;
 
 import java.io.File;

@@ -18,7 +18,7 @@
  * Based on AndDev.org's file browser V 2.0.
  */
 
-package org.openintents.cmfilemanager;
+package org.openintents.filemanager;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -37,9 +37,11 @@ import android.view.*;
 import android.view.ContextMenu.ContextMenuInfo;
 import android.widget.*;
 import android.widget.AdapterView.AdapterContextMenuInfo;
-import org.openintents.cmfilemanager.util.FileUtils;
-import org.openintents.cmfilemanager.util.MimeTypeParser;
-import org.openintents.cmfilemanager.util.MimeTypes;
+
+import org.openintents.filemanager.R;
+import org.openintents.filemanager.util.FileUtils;
+import org.openintents.filemanager.util.MimeTypeParser;
+import org.openintents.filemanager.util.MimeTypes;
 import org.openintents.intents.FileManagerIntents;
 import org.openintents.util.MenuIntentOptionsWithIcons;
 import org.xmlpull.v1.XmlPullParserException;

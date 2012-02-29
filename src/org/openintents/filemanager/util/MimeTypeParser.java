@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.openintents.cmfilemanager.util;
+package org.openintents.filemanager.util;
 
 import java.io.IOException;
 import java.io.InputStream;

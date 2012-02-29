@@ -15,7 +15,7 @@
  * limitations under the License.
  -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.openintents.cmfilemanager"
+    package="org.openintents.filemanager"
     android:installLocation="auto"
 	android:versionName="1.1.4"
 	android:versionCode="14">

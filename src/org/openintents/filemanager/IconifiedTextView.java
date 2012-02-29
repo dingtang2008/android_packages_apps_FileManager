@@ -1,4 +1,4 @@
-package org.openintents.cmfilemanager;
+package org.openintents.filemanager;
 
 /* $Id: BulletedTextView.java 57 2007-11-21 18:31:52Z steven $ 
  * 
@@ -20,6 +20,8 @@ package org.openintents.cmfilemanager;
 /**
  * Dec 7, 2008: Peli: Use inflated layout.
  */
+
+import org.openintents.filemanager.R;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
